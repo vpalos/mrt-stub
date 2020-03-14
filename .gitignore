@@ -1,0 +1,32 @@
+node_modules/
+
+# Created by https://www.gitignore.io/api/meteor,meteorjs
+# Edit at https://www.gitignore.io/?templates=meteor,meteorjs
+
+### Meteor ###
+# gitignore template for the Meteor framework
+# website: https://www.meteor.com/
+#
+# Recommended template: Node.gitignore
+
+# protect api keys in setting json
+settings-production.json
+settings.json
+
+# protect your mup.json settings
+mup.json
+mup.js
+
+### MeteorJS ###
+# default meteor build and local packages
+.meteor/local
+
+# meteor settings file
+
+# meteor build output files
+*.tar.gz
+
+# general swp files from vim
+*.swp
+
+# End of https://www.gitignore.io/api/meteor,meteorjs
