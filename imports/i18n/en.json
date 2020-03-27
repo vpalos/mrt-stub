@@ -1,0 +1,38 @@
+{
+  "translation": {
+    "sign-in": {
+      "title": "Sign in",
+
+      "email": "Email address",
+      "password": "Password",
+
+      "remember-me": "Remember me",
+      "forgot-password": "Forgot password?",
+      "sign-up": "Don't have an account? Sign up",
+
+      "actions": {
+        "sign-in": "Sign in"
+      }
+    },
+
+    "sign-up": {
+      "title": "Sign up",
+
+      "first-name": "First name",
+      "last-name": "Last name",
+      "email": "Email address",
+      "password": "Password",
+
+      "sign-in": "Already have an account? Sign in",
+      "consent": "I accept marketing messages and account updates via email.",
+
+      "actions": {
+        "sign-up": "Sign up"
+      }
+    },
+
+    "copyright": {
+      "label": "Copyright ©2020"
+    }
+  }
+}

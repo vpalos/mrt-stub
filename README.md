@@ -24,6 +24,7 @@ documentation_ aside from this file and the code commens. Just follow these step
 - `yarn`: used instead of `npm` everywhere;
 - `typescript` (3): all code is TypeScript;
 - `meteor` (1.9): Meteor JS framework;
+- `simpl-schema`: Data-model schema enforcement for Meteor/Mongo Collections.
 - `react` (16): React core;
 - `react-router`: client-side routing library;
 - `react-i18next`: i18n package based on `i18next`;

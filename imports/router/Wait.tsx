@@ -5,6 +5,16 @@ import CircularProgress from "@material-ui/core/CircularProgress";
 
 import { withStyles } from "@material-ui/core/styles";
 
+/**
+ * Wait for asynchronous operations before loading a page.
+ *
+ * <Wait for={() => new Promise(resolve => setTimeout(resolve, 2000))}>
+ *   <DashboardLayout>
+ *     <DashboardPage />
+ *   </DashboardLayout>
+ * </Wait>
+ */
+
 export interface IWaitProps<T> {
   for: () => Promise<T>;
   classes: any;
