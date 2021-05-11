@@ -17,7 +17,7 @@
     "@types/lodash": "^4.14.149",
     "dayjs": "^1.8.22",
     "i18next": "^19.3.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "meteor-node-stubs": "^1.0.0",
     "prop-types": "^15.6.0",
     "react": "^16.9.0",
